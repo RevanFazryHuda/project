@@ -6,25 +6,14 @@ Aplikasi ini juga dilengkapi dengan fitur menghasilkan laporan penjualan.
 
 Fitur
 --
-<ul>
-    <li><strong>Login dan Register Pengguna</strong></li>
-    <li><strong>CRUD Parfum (Tambah,Lihat,Edit Hapus)</strong>
-        <ul>
-            <li>Cari berdasarkan Nama Barang</li>
-            <li>Filter berdasarkan Merk dan Harga</li>
-            <li>Upload foto parfum</li>
-        </ul>
-    </li>
-    <li><strong>CRUD Pembeli (Tambah,Lihat,Edit Hapus)</strong>
-        <ul>
-          <li>Cari berdasarkan Nama Pelanggan</li>
-        </ul>
-    </li>
-    <li><strong>CRUD Transaksi (Tambah,Lihat,Edit Hapus)</strong>
-        <ul>
-          <li>Filter berdasarkan Hari</li>
-        </ul>
-    </li>
-    <li><strong>CRUD Detail Transaksi (Tambah,Lihat,Edit Hapus) </strong></li>
-    <li><strong>Laporan Penjualan Parfum</li></strong>
-</ul>
+- **Login dan Register Pengguna**
+- **CRUD Parfum (Tambah,Lihat,Edit Hapus)**
+    - Cari berdasarkan Nama Barang
+    - Filter berdasarkan Merk dan Harga
+    - Upload foto parfum
+- **CRUD Pembeli (Tambah,Lihat,Edit Hapus)**
+    - Cari berdasarkan Nama Pelanggan
+- **CRUD Transaksi (Tambah,Lihat,Edit Hapus)**
+    - Filter berdasarkan Hari
+- **CRUD Detail Transaksi (Tambah,Lihat,Edit Hapus)** 
+- **Laporan Penjualan Parfum**
